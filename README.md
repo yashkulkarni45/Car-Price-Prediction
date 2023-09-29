@@ -1,2 +1,4 @@
 # Car-Price-Prediction
-Simple Car Price Prediction using Linear Regression and loaded to website using Flask.
+- Cleaned the data by dropping commas, null values, etc
+- Used simple linear regression to predict the price.
+- Loaded the model by using Flask framework.
